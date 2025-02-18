@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0aaa2a8b-0960-48e9-9bd2-ed803768c12d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Lab2_Py.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1_read_chars.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_find_dublicates.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_music.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4_substrings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_substrings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reorganize.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trackmix.py" afterDir="false" />
-    </list>
+    <list default="true" id="0aaa2a8b-0960-48e9-9bd2-ed803768c12d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
